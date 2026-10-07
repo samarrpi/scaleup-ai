@@ -1,0 +1,9 @@
+Process: Fermentation
+Organism: E. coli
+Product: Insulin
+Temperature: 25 C
+Temperature: 37 C
+Objective: maximize yield
+Constraint: temperature must not exceed 30 C
+
+This contradicts the earlier 37 C setting.

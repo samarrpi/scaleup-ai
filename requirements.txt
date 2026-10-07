@@ -1,0 +1,6 @@
+pydantic>=2,<3
+pytest>=8,<9
+streamlit>=1.57,<2
+openpyxl
+pypdf>=5,<7
+

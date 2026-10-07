@@ -1,0 +1,3 @@
+This bioprocess uses e. coli in a fermentation train for insulin production. Objective: increase yield. temp is around 35-37 C, ph around 7.0, agitation maybe 200 rpm. Need to keep oxygen transfer high and the batch time under 48 hours. 
+
+Product target is insulin.

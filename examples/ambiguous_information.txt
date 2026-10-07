@@ -1,0 +1,9 @@
+Process: Fermentation
+Organism: Yeast
+Product: Protein
+Temperature: about 30 C
+pH: maybe 6.5
+Agitation: around 150 rpm or 200 rpm
+Objective: improve output
+
+The exact feed composition is uncertain.

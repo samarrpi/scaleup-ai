@@ -1,0 +1,11 @@
+Process: fed-batch fermentation
+Organism: E. coli
+Product: recombinant protein
+Operations: Media preparation -> Inoculation -> Fed-batch growth -> Harvest
+Initial biomass: 1 g/L
+Initial glucose: 20 g/L
+Initial product: 0 g/L
+Initial volume: 2 L
+Feed rate: 0.02 L/h
+Feed glucose concentration: 500 g/L
+Duration: 10 h

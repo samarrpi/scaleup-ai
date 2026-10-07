@@ -1,0 +1,6 @@
+Process: Cell culture
+Organism: Mammalian cell line
+Product: Antibody
+Objective: maximize titer
+
+The source does not specify temperature, pH, agitation, or feed rate. It is missing key operating details.

@@ -1,0 +1,11 @@
+Process: Fermentation
+Organism: E. coli
+Product: Insulin
+Operations: Media preparation -> Inoculation -> Fermentation -> Harvest
+Objective: Maximize product titer
+Temperature: 37 C
+pH: 7.2
+Agitation: 250 rpm
+Feed rate: 0.5 L/h
+
+Target: High yield while maintaining cell viability.
